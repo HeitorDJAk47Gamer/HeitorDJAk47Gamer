@@ -31,7 +31,7 @@
 <h2>GitHub Status</h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorDJAk47Gamer&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorDJAk47Gamer&layout=compact&langs_count=7&theme=blue-green">
 <img src="https://github-readme-stats.vercel.app/api?username=HeitorDJAk47Gamer&theme=blue-green">
 </div>
 
