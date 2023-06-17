@@ -39,10 +39,38 @@
 
 <div align="center">
   
-  <a href="https://www.youtube.com/channel/UCpgliPEzj2Zomhy0mWLZxxg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.twitch.tv/heitordjak47gamer"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="https://github.com/HeitorDJAk47Gamer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://discord.gg/wZEP7GY"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://br.pinterest.com/heitordjak47gamer/_saved/"><img src="https://aleen42.github.io/badges/src/pinterest.svg"></a>
+  <a href="https://www.youtube.com/channel/UCpgliPEzj2Zomhy0mWLZxxg">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://www.twitch.tv/heitordjak47gamer">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+  <a href="https://github.com/HeitorDJAk47Gamer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://discord.gg/wZEP7GY">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://br.pinterest.com/heitordjak47gamer/_saved/">
+    <img src="https://aleen42.github.io/badges/src/pinterest.svg">
+  </a>
+
+</div>
+
+<h2>Main Projects</h2>
+
+<div align="center">
+  
+  <a href="https://larab0t.equipelarabot.repl.co">
+    <img style="width: 10%;" src="https://github.com/HeitorDJAk47Gamer/B0TPY/blob/master/Lara.png" />
+  </a>
+
+  <a href="https://discord.gg/wZEP7GY">
+    <img style="width: 10%;" src="https://larab0t.equipelarabot.repl.co/imagens/Exception.png" />
+  </a>
+
+  <a href="https://discord.gg/EcCfTdsk2e">
+    <img style="width: 10%;" src="https://github.com/HeitorDJAk47Gamer/TIE/blob/main/tie.png" />
+  </a>
 
 </div>
