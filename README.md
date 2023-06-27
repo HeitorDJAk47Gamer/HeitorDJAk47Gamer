@@ -33,6 +33,9 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorDJAk47Gamer&layout=compact&langs_count=7&theme=blue-green">
 <img src="https://github-readme-stats.vercel.app/api?username=HeitorDJAk47Gamer&theme=blue-green">
+
+[![Tecnologias](https://github-readme-stats.vercel.app/api/wakatime?username=HeitorDJAk47Gamer)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <h2>Social</h2>
