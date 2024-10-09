@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="https://br.pinterest.com/heitordjak47gamer/_saved/">
-    <img src="https://aleen42.github.io/badges/src/pinterest.svg">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
   </a>
 
 </div>
