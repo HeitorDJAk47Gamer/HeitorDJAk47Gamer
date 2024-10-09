@@ -23,8 +23,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="">
-  <img src="">
   <h2>IDE's</h2>
   <p>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -82,12 +80,12 @@
 
 <div align="center">
   
-  <a href="https://larab0t.equipelarabot.repl.co">
+  <a href="https://larab0t.pages.dev/">
     <img style="width: 10%;" src="https://github.com/HeitorDJAk47Gamer/B0TPY/blob/master/Lara.png" />
   </a>
 
   <a href="https://discord.gg/wZEP7GY">
-    <img style="width: 10%;" src="https://larab0t.equipelarabot.repl.co/imagens/Exception.png" />
+    <img style="width: 10%;" src="https://larab0t.pages.dev/imagens/Exception.png" />
   </a>
 
   <a href="https://discord.gg/EcCfTdsk2e">
