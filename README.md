@@ -44,14 +44,14 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white">
 </p>
 
 <h2>GitHub Status</h2>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorDJAk47Gamer&layout=compact&langs_count=7&theme=blue-green">
-<img src="https://github-readme-stats.vercel.app/api?username=HeitorDJAk47Gamer&theme=blue-green">
-
+  
 </div>
 
 <h2>Social</h2>
