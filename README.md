@@ -1,4 +1,4 @@
-### Olá meus caros!👋
+### Olá!👋
 
 
 <h2>🛠️ Linguagens e Ferramentas</h2>
