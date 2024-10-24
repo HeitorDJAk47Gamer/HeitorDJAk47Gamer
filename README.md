@@ -74,7 +74,7 @@
 
 </div>
 
-<h2>Main's Project</h2>
+<h2>Main's Projects</h2>
 
 <div align="center">
   
