@@ -1,5 +1,4 @@
-# Olá!
-Eu sou HeitorDJAk47
+# Eu sou HeitorDJAk47
 
 
 <h2>🛠️ Linguagens e Ferramentas 🛠️</h2>
