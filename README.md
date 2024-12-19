@@ -1,7 +1,7 @@
 # Eu sou HeitorDJAk47
 
 
-<h2>🛠️ Linguagens e Ferramentas 🛠</h2>
+<h2>🛠️ Linguagens e Ferramentas</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
